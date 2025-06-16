@@ -1,0 +1,14 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\bin\Debug\net9.0\ex01_LowtoLargest.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\bin\Debug\net9.0\ex01_LowtoLargest.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\bin\Debug\net9.0\ex01_LowtoLargest.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\bin\Debug\net9.0\ex01_LowtoLargest.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\bin\Debug\net9.0\ex01_LowtoLargest.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\refint\ex01_LowtoLargest.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ex01_LowtoLargest.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex01_LowtoLargest\obj\Debug\net9.0\ref\ex01_LowtoLargest.dll
