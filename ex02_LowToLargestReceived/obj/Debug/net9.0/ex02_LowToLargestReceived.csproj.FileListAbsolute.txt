@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\bin\Debug\net9.0\ex02_LowToLargestReceived.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\bin\Debug\net9.0\ex02_LowToLargestReceived.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\bin\Debug\net9.0\ex02_LowToLargestReceived.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\bin\Debug\net9.0\ex02_LowToLargestReceived.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\bin\Debug\net9.0\ex02_LowToLargestReceived.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\refint\ex02_LowToLargestReceived.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ex02_LowToLargestReceived.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex02_LowToLargestReceived\obj\Debug\net9.0\ref\ex02_LowToLargestReceived.dll
