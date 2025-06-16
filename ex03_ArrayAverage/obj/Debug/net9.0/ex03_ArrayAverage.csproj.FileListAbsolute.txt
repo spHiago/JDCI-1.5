@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\bin\Debug\net9.0\ex03_ArrayAverage.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\bin\Debug\net9.0\ex03_ArrayAverage.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\bin\Debug\net9.0\ex03_ArrayAverage.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\bin\Debug\net9.0\ex03_ArrayAverage.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\bin\Debug\net9.0\ex03_ArrayAverage.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\refint\ex03_ArrayAverage.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ex03_ArrayAverage.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.5\ex03_ArrayAverage\obj\Debug\net9.0\ref\ex03_ArrayAverage.dll
