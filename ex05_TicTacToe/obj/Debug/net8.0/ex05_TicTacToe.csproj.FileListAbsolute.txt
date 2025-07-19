@@ -5,3 +5,18 @@ C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\ne
 C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.AssemblyInfo.cs
 C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.sourcelink.json
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\bin\Debug\net8.0\ex05_TicTacToe.exe
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\bin\Debug\net8.0\ex05_TicTacToe.deps.json
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\bin\Debug\net8.0\ex05_TicTacToe.runtimeconfig.json
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\bin\Debug\net8.0\ex05_TicTacToe.dll
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\bin\Debug\net8.0\ex05_TicTacToe.pdb
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.AssemblyInfo.cs
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.sourcelink.json
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.dll
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\refint\ex05_TicTacToe.dll
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.pdb
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.genruntimeconfig.cache
+C:\Users\offic\Desktop\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ref\ex05_TicTacToe.dll

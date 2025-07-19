@@ -8,10 +8,7 @@ namespace TicTacToe
 {
     class Program
     {
-
-        int[] x = new int[3] { 1, 2, 3 };
-        int[] y = new int[3] { 1, 2, 3 };
-        char[] board = new char[9] { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+       static char[] board = new char[9] { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ',' '};
 
         static void Main(string[] args)
         {
@@ -24,19 +21,46 @@ namespace TicTacToe
             Console.WriteLine($"Jogador1 = {jogador1}");
             Console.WriteLine($"Jogador2 = {jogador2}");
             Console.WriteLine($"{jogador1}: X    {jogador2}: O");
-            Console.WriteLine(Tabuleiro);
+            Tabuleiro();
+            Console.WriteLine($"{jogador1}, é sua vez! Você joga com 'X'.");
+            int linha, coluna, indice;
+
+            while (true)
+            {
+
+                Console.Write("Digite a linha (0, 1 ou 2): ");
+                linha = int.Parse(Console.ReadLine());
+                Console.Write("Digite a coluna (0, 1 ou 2): ");
+                coluna = int.Parse(Console.ReadLine());
+                indice = linha * 3 + coluna;
+
+                if (indice < 0 || indice > 9)
+                {
+                    Console.WriteLine("Posição invalida, tente novamente.");
+                    continue;
+                }
+                if (board[indice] != ' ')
+                Console.WriteLine("Essa posição ja esta ocupada, escolha outra");
+                else
+                {
+                    board[indice] = 'X';
+                    break;
+                }
+                Tabuleiro();
+            }
+ 
         }
         static void Tabuleiro()
         {
             {
-                Console.WriteLine("     |     |     ");
-                Console.WriteLine($"  {board[0]}  |  {board[1]}  |  {board[2]}");
+                Console.WriteLine("     COLUNAS    ");
+                Console.WriteLine($"  {board[0]}  |  {board[1]}  |  {board[2]}            LINHA 0");
                 Console.WriteLine("_____|_____|_____");
                 Console.WriteLine("     |     |     ");
-                Console.WriteLine($"  {board[3]}  |  {board[4]}  |  {board[5]}");
+                Console.WriteLine($"  {board[3]}  |  {board[4]}  |  {board[5]}            LINHA 1");
                 Console.WriteLine("_____|_____|_____");
                 Console.WriteLine("     |     |     ");
-                Console.WriteLine($"  {board[6]}  |  {board[7]}  |  {board[8]}");
+                Console.WriteLine($"  {board[6]}  |  {board[7]}  |  {board[8]}            LINHA 2");
                 Console.WriteLine("     |     |     ");
             }
         }
