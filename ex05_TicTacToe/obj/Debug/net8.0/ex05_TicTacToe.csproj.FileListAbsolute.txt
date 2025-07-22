@@ -5,3 +5,8 @@ C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\ne
 C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.AssemblyInfo.cs
 C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.sourcelink.json
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex05_TicTacToe\obj\Debug\net8.0\ex05_TicTacToe.sourcelink.json

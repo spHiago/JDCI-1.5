@@ -1,0 +1,15 @@
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\bin\Debug\net9.0\ex04_ArrayByUser.exe
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\bin\Debug\net9.0\ex04_ArrayByUser.deps.json
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\bin\Debug\net9.0\ex04_ArrayByUser.runtimeconfig.json
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\bin\Debug\net9.0\ex04_ArrayByUser.dll
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\bin\Debug\net9.0\ex04_ArrayByUser.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.sourcelink.json
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.dll
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\refint\ex04_ArrayByUser.dll
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ex04_ArrayByUser.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\JDCI-1.5\ex04_ArrayByUser\obj\Debug\net9.0\ref\ex04_ArrayByUser.dll
