@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\offic\\Desktop\\JDCI-1.5\\ex05_TicTacToe\\ex05_TicTacToe.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\offic\\Desktop\\JDCI-1.5\\ex05_TicTacToe\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
