@@ -22,12 +22,11 @@ namespace TicTacToe
             Console.WriteLine($"Jogador2 = {jogador2}");
             Console.WriteLine($"{jogador1}: X    {jogador2}: O");
             Tabuleiro();
-            Console.WriteLine($"{jogador1}, é sua vez! Você joga com 'X'.");
             int linha, coluna, indice;
 
-            while (true)
+            while (!CheckWinX() || !CheckWinO())
             {
-
+                Console.WriteLine($"{jogador1}, é sua vez! Você joga com 'X'.");
                 Console.Write("Digite a linha (0, 1 ou 2): ");
                 linha = int.Parse(Console.ReadLine());
                 Console.Write("Digite a coluna (0, 1 ou 2): ");
@@ -40,15 +39,28 @@ namespace TicTacToe
                     continue;
                 }
                 if (board[indice] != ' ')
-                Console.WriteLine("Essa posição ja esta ocupada, escolha outra");
+                {
+                    Console.WriteLine("Essa posição ja esta ocupada, escolha outra");
+                    continue;
+                }
                 else
                 {
                     board[indice] = 'X';
+                    continue;
+                }
+                if (CheckWinX())
+                {
+                    Console.WriteLine($"{jogador1} venceu. Fim de jogo.");
                     break;
                 }
-                Tabuleiro();
+                if (CheckWinO())
+                {
+                    Console.WriteLine($"{jogador2} venceu. Fim de jogo.");
+                    break;
+                }
             }
- 
+            Tabuleiro();
+
         }
         static void Tabuleiro()
         {
@@ -63,6 +75,39 @@ namespace TicTacToe
                 Console.WriteLine($"  {board[6]}  |  {board[7]}  |  {board[8]}            LINHA 2");
                 Console.WriteLine("     |     |     ");
             }
+        }
+
+        static bool CheckWinX()
+        {
+            if (board[0] == 'X' &&  board[1] == 'X' && board[2] == 'X')
+                return true;
+            if (board[3] == 'X' && board[4] == 'X' && board[5] == 'X')
+                return true;
+            if (board[6] == 'X' && board[7] == 'X' && board[8] == 'X')
+                return true;
+
+            if (board[0] == 'X' && board[4] == 'X' && board[8] == 'X')
+                return true;
+            if (board[2] == 'X' && board[4] == 'X' && board[6] == 'X')
+                return true;
+            else
+                return false;
+        }
+
+        static bool CheckWinO()
+        {
+            if (board[0] == 'O' && board[1] == 'O' && board[2] == 'O')
+                return true;
+            if (board[3] == 'O' && board[4] == 'O' && board[5] == 'O')
+                return true;
+            if (board[6] == 'O' && board[7] == 'O' && board[8] == 'O')
+                return true;
+
+            if (board[0] == 'O' && board[4] == 'O' && board[8] == 'O')
+                return true;
+            if (board[2] == 'O' && board[4] == 'O' && board[6] == 'O')
+                return true;
+            else return false;
         }
     }
 }
